@@ -1,7 +1,3 @@
-Jonathan Zeltser
-=========================
-
-
 [ ![Tux, the Linux mascot](icons8-gmail-48.png)](mailto:zeltserj@gmail.com)     [![](icons8-linkedin-48.png)](https://www.linkedin.com/in/jonathan-zeltser-711169178/)   [![](icons8-phone-50.png)](tel:0522899644) [![](icons8-github-48.png)](https://github.com/Zeltserj)
 
 Experience
