@@ -1,132 +1,84 @@
-Christophe-Marie Duquesne
+Jonathan Zeltser
 =========================
 
-----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+[ ![Tux, the Linux mascot](icons8-gmail-48.png)](mailto:zeltserj@gmail.com)     [![](icons8-linkedin-48.png)](https://www.linkedin.com/in/jonathan-zeltser-711169178/)   [![](icons8-phone-50.png)](tel:0522899644) [![](icons8-github-48.png)](https://github.com/Zeltserj)
 
-----
-
-Corporate Experience
+Experience
 --------------------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+*Since April 2021*
+:   **Production Engineer, [Meta](https://www.meta.com/)**
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    - Exceeded expectation in all performance cycles, promoted within a year.
+    - Collboarted with computer vision engineers to indetify and solve model evaluation and training at scale
+    - Integrated edge virtualization stacks, running webRTC and serving up to 100K beta users. Work on monitoring, load testing, data flows across the stack.
+    - Create post push testing mechanisms in the AWS hosted [Express Wi Fi](https://en.wikipedia.org/wiki/Express_Wi-Fi) project. 
+    - Worked both in internal and external (Kubernetes orchestrated AWS) stacks, writing code in Python, Golang, C++ and PHP.
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+*July 2020 - October 2020*
+:   **Production Engineering Intern, [Meta](https://www.meta.com/)**
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    - Implement a component-wise load testing framework for the team's infrastructure.
+    - The project enables engineers to write their own tests with a simple open source framework, monitor the
+tests and load at the staging environment.
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+*October 2019 - July 2020*
+:   **Software Developer in the Artificical Intelligence Team, [Matrix Defense](https://www.matrix-globalservices.com/defense/)** 
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
-
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
+    - Building and deploying deep learning algorithms in varying projects such as Membership Inference,
+    Sentiment Negation. Beyond developing software, position also included AI research.
+    - The position required independence, strong software developing skills as well as familiarity with deep
+    learning.
+    - The position included Devloping and training machine learning models with Pytorch and Tensorflow, containerized in Docker, as well as writing reports for clients.
 
 Education
+----------------------------------
+
+*Since March 2023*
+:   **Masters of Science in Computer Science, Bar Ilan University**
+
+    Currently taking courses in Advanced AI topics, probablistic models.
+
+*October 2017 - March 2021*
+:   **Bachelor of Computer Science and Psychology Emphasizing Neuroscience, Tel Aviv University**
+
+    GPA: 88
+
+Publications
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+*As Author*
+:   
+    - [Classification of pediatric posterior fossa tumors using convolutional neural network and tabular data](https://ieeexplore.ieee.org/document/9446147), IEEE Access
+    - [Aberrant reward learning, but not negative reinforcement learning, is related to depressive symptoms: an attentional perspective](https://pubmed.ncbi.nlm.nih.gov/37642177/),  Psychological Medicine
+    - [Are mutually intelligent languages easier to translate?](https://arxiv.org/abs/2201.13072), arXiv
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+*Acknowledgedments*
+:   
+    - [A Game of Bundle Adjustment -- Learning Efficient Convergence](https://www.researchgate.net/publication/373437779_A_Game_of_Bundle_Adjustment_--_Learning_Efficient_Convergence), ICCV
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
 
-Activities and interests
+Skills and Certificates
 ------------------------
+Certificates
+: 
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
+    Architecting on AWS - class of February 2022
 
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
+Technical
+:   
+    - Python - scripting, web development and data science, Go, C++, Javascript, Java, HTML, SQL
+    - Kubernetes, Terraform, AWS, Prometheus
+    - Architechture design
+    - MongoDB, MySQL
 
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+Non Technical:
+:  Writing, collaboration, communication, overview projects and creating cross team connections.
 
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+This resume was written in with Markdown, parsed by pandoc, and is hosted on my Github Pages.
